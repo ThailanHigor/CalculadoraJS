@@ -18,7 +18,7 @@ body{
 
 .visor{
     margin: 2px;
-    direction: rtl;
+    text-align: right;
     flex: 3;
     font-size:18px;
     border-radius: 8px;
